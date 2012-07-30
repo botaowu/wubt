@@ -1,7 +1,7 @@
 '''
 Created on 2012-6-27
 
-@author: Liuxue
+@author: Wu Botao
 '''
 
 if __name__ == '__main__':
