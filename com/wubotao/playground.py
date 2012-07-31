@@ -7,3 +7,5 @@ Created on 2012-6-27
 if __name__ == '__main__':
     import MySQLdb
     print MySQLdb.BINARY
+    
+    print 'just test it'
